@@ -2,6 +2,12 @@
 
 This site is organised to match the **marking rubric**.
 
+## Team (4)
+- Harley — https://github.com/harleypool14
+- Stella — https://github.com/Amarachukwu-Stella-Nneji
+- Jack — https://github.com/jack-lovett
+- Corey — https://github.com/Corey-Camilleri
+
 ## Navigation (rubric-aligned)
 1. **Requirements** → `requirements.md`
 2. **Design** → `design.md`
