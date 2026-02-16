@@ -3,7 +3,7 @@
 - **Role / Type:** Customer
 - **Primary goal:** Order food quickly and confidently (right items, right time).
 - **Secondary goals:** Save favourites, get good value, track delivery.
-- **Context:** Browsing on mobile; often time-poor (lunch/dinner).
+- **Context:** Primarily mobile app; often time-poor (lunch/dinner).
 - **Behaviours:** Compares options; checks ETA + fees; uses re-order.
 - **Pain points:** Unclear fees/ETA; missing items; slow status updates.
 - **Motivations:** Convenience, reliability, value.

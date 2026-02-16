@@ -3,7 +3,7 @@
 - **Role / Type:** Driver
 - **Primary goal:** Complete deliveries efficiently with clear pickup/drop-off instructions.
 - **Secondary goals:** Minimise wait times; avoid wrong addresses; maintain rating.
-- **Context:** Mobile-first, on the move.
+- **Context:** Mobile app, on the move.
 - **Behaviours:** Accepts jobs, navigates, confirms pickup/drop-off, updates status.
 - **Pain points:** Restaurant delays; unclear delivery notes; address issues.
 - **Motivations:** Efficiency, predictable workflow, fewer disputes.

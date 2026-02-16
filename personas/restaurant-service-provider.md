@@ -3,7 +3,7 @@
 - **Role / Type:** Restaurant owner/manager
 - **Primary goal:** Receive and fulfil orders smoothly with minimal disruption.
 - **Secondary goals:** Keep menu/profile accurate; maximise sales; manage busy periods.
-- **Context:** On a tablet/desktop in-store during service.
+- **Context:** Primarily tablet/desktop dashboard in-store during service (mobile-capable as needed).
 - **Behaviours:** Monitors incoming orders; updates prep status; edits menu items.
 - **Pain points:** Sudden order spikes; menu changes are painful; unclear customer issues.
 - **Motivations:** More orders, better efficiency, fewer disputes.

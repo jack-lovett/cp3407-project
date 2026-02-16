@@ -3,7 +3,7 @@
 - **Role / Type:** Support/admin staff
 - **Primary goal:** Resolve order issues quickly and fairly.
 - **Secondary goals:** Reduce repeat issues; keep users/providers unblocked.
-- **Context:** Web dashboard during business hours.
+- **Context:** Primarily desktop web dashboard during business hours (could support tablet).
 - **Behaviours:** Looks up orders, checks status history, contacts parties, applies resolution.
 - **Pain points:** Missing context; no audit trail; unclear responsibility.
 - **Motivations:** Fast resolution, fewer escalations.
