@@ -1,31 +1,38 @@
-# FeedMe (CP3407/CP5507 2026 TR) — Project Site
+# FeedMe: Food Delivery Platform — Project Site
 
-This site is organised to match the **marking rubric**.
+This site is tailored to present our work in alignment with the marking rubric. Start exploring below!
 
-## Navigation (rubric-aligned)
-1. **Requirements** → `requirements.md`
-2. **Design** → `design.md`
-3. **Implementation / Code** → `implementation.md`
-4. **Test** → `testing.md`
-5. **Version Control** → `version-control.md`
-6. **Building & Dev Tools** → `tools.md`
-7. **Agile Software Engineering** → `agile.md`
-8. **Project Technical Writing (template + structure)** → `writing.md`
+## Team
+- Harley — https://github.com/harleypool14
+- Stella — https://github.com/Amarachukwu-Stella-Nneji
+- Jack — https://github.com/jack-lovett
+- Corey — https://github.com/Corey-Camilleri
+- Braedon — https://github.com/braedonross
 
-## Assessment mapping
-- `assessment-mapping.md`
+## Navigation
+1. **Requirements** → Explore user stories and functional needs (`requirements.md`).
+2. **Design** → View our prototypes, architecture, and system planning (`design.md`).
+3. **Implementation** → Codebase structure and feature implementation details (`implementation.md`).
+4. **Testing** → Evidence of testing strategies and results (`testing.md`).
+5. **Version Control** → Documentation of outstanding Git workflows and practices (`version-control.md`).
+6. **Development Tools** → See tools and environments powering the project (`tools.md`).
+7. **Agile Processes** → Iterative development approach and management (`agile.md`).
+8. **Technical Writing** → Review our structured technical documentation (`writing.md`).
+
+## Assessment Mapping
+- Check alignment: `assessment-mapping.md`
 
 ## Iterations
-- Iteration 1 board: `../iteration_1.md`
-- Iteration 2 board: `../iteration_2.md`
+- Iteration 1: `../iteration_1.md`
+- Iteration 2: `../iteration_2.md`
 
-## Logs
-- Decisions log: `../decisions.md`
-- Meeting notes: `meetings/`
+## Logs & Notes
+- Key Decisions: `../decisions.md`
+- Team Meetings: `meetings/`
 
-## Source docs (provided)
-- Task sheet: `task-sheet.md`
-- Marking guide: `marking-guide.md`
+## References
+- Task Sheet: `task-sheet.md`
+- Marking Guide: `marking-guide.md`
 
-## Design artefacts
-- Figma Jam / UI prototype links will be recorded in `design.md`.
+## Design Artefacts
+- Prototypes and design materials available in `design.md`.
