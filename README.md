@@ -5,11 +5,12 @@
 > **For marking:** the **GitHub Pages site** is the project output. Start here:
 > - **Project site index:** `docs/index.md`
 
-## Team (4)
+## Team (5)
 - Harley — https://github.com/harleypool14
 - Stella — https://github.com/Amarachukwu-Stella-Nneji
 - Jack — https://github.com/jack-lovett
 - Corey — https://github.com/Corey-Camilleri
+- Braedon — https://github.com/braedonross
 
 ## How we’ll run this project (summary)
 - **2 iterations** (see `iteration_1.md`, `iteration_2.md`)
